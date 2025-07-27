@@ -1,2 +1,2 @@
 # iconic-conscious
-A site and a design that will progress with love and perseverance and will ultimately shine in cyberspace.
+Web Designer & Python Coder | Focused on simplicity, speed & scalable code | Let's build something awesome.
